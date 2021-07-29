@@ -1,0 +1,8 @@
+Exercise:
+Use an HTML element to add quotation marks around the letters "cool".
+
+Answer: <q>, </q>
+
+<p>
+I am so <q>cool</q>.
+</p>
