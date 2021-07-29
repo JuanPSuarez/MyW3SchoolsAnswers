@@ -1,0 +1,6 @@
+Exercise:
+Use CSS to center align the paragraph.
+
+Answer: text-align
+
+<p style="text-align:center;">This is a paragraph.</p>
