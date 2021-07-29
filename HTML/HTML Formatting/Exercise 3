@@ -1,0 +1,8 @@
+Exercise:
+Highlight the word "FUN" in the text below.
+
+Answer: <mark>, </mark>
+
+<p>
+HTML is <mark>FUN</mark> to learn!
+</p>
