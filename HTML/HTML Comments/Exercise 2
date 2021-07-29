@@ -1,0 +1,6 @@
+Exercise:
+Add comment tags around the paragraph:
+
+Answer: <!--, -->
+
+<!-- <p>This is a paragraph.</p> -->
