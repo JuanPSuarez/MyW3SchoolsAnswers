@@ -1,0 +1,5 @@
+Exercise:
+Make the element below into a link that goes to "https://www.w3schools.com".
+
+Answer: href=
+<a href="https://www.w3schools.com">This is a link</a>
