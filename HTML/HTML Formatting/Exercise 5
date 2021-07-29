@@ -1,0 +1,8 @@
+Exercise:
+Add a line through (strikeout) the letters "blue" in the text below.
+
+Answer: <del>, </del>
+
+<p>
+My favorite color is <del>blue</del> red.
+</p>
