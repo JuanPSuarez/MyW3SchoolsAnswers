@@ -1,0 +1,6 @@
+Exercise:
+Add the correct HTML attribute to display the "smiley.gif" image.
+
+Answer: src="smiley.gif"
+
+<img src="smiley.gif">
