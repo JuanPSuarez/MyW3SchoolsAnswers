@@ -1,0 +1,8 @@
+Exercise:
+Use the correct HTML to make the image become a link to "default.html".
+
+Answer: <a, href="default.html">, </a>
+
+<a href="default.html">
+<img src="smiley.gif">
+</a>
