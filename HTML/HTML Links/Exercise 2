@@ -1,0 +1,6 @@
+Exercise:
+Use CSS to remove the underline from the link.
+
+Answer: text-decoration:none;
+
+<a href="html_images.asp" style="text-decoration:none;">HTML Images</a>
