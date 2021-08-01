@@ -1,0 +1,8 @@
+Exercise:
+Add a "tooltip" to the link.
+
+The "tooltip" should say "Home".
+
+Answer: title="Home"
+
+<a href="default.html" title="Home">Back to Home</a>
