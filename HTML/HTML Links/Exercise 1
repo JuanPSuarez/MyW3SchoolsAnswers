@@ -1,0 +1,6 @@
+Exercise:
+Use the correct HTML to make the text below into a link to "default.html".
+
+Answer: <a, href="default.html", </a>
+
+<a href="default.html">Visit our HTML tutorial.</a>
