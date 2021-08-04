@@ -1,0 +1,8 @@
+Exercise:
+Add a list item with the text "Coffee" inside the <ul>.
+
+Answer: <li>, </li>
+
+<ul>
+<li>Coffee</li>
+</ul>
