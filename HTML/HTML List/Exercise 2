@@ -1,0 +1,10 @@
+Exercise:
+Finish the HTML code to make an ordered list.
+
+Answer: <ol>, </ol>
+
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
