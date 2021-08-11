@@ -1,0 +1,6 @@
+Exercise:
+Create an iframe with a URL address that goes to "default.html".
+
+Answer: <iframe src="default.html"></iframe>
+
+<iframe src="default.html"></iframe>
