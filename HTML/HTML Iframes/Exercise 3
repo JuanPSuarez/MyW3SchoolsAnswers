@@ -1,0 +1,6 @@
+Exercise:
+Use CSS to display an iframe with no borders.
+
+Answer: border:none;
+
+<iframe src="https://www.w3schools.com" style="border:none;"></iframe>
