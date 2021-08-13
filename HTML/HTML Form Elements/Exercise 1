@@ -1,0 +1,9 @@
+Exercise:
+In the form below, add an empty drop down list with the name "cars".
+
+Answer: select name="cars", select
+
+<form action="/action_page.php">
+<select name="cars">
+</select>
+</form>
