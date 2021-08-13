@@ -1,0 +1,14 @@
+Exercise:
+Use JavaScript to set the color of the <p> element to "red".
+
+Answer: style, color
+
+<body>
+
+<p id="demo">Hi.</p>
+
+<script>
+document.getElementById("demo").style.color = "red";
+</script>
+
+</body>
