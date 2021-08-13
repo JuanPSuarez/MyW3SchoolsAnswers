@@ -1,0 +1,8 @@
+Exercise:
+In the form below, add a text area with the name "note".
+
+Answer: textarea name="note", textarea
+
+<form action="/action_page.php">
+<textarea name="note"></textarea>
+</form>
