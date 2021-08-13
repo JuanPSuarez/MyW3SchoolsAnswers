@@ -1,0 +1,9 @@
+Exercise:
+Add a submit button, and specify that the form should go to "/action_page.php".
+
+Answer: action, input type="submit"
+
+<form action="/action_page.php">
+Name: <input type="text" name="name">
+<input type="submit">
+</form>
