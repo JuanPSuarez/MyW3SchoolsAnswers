@@ -1,0 +1,9 @@
+Exercise:
+1. In the form below, add a input field that can only contain numbers
+2. Use the correct input attributes to only allow numbers between 1 and 5.
+
+Answer: number, min, max
+
+<form action="/action_page.php">
+<input type="number" min="1" max="5">
+</form>
