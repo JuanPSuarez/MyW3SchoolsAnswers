@@ -1,0 +1,8 @@
+Exercise:
+In the form below, add a <button> element with the text "Click Me".
+
+Answer: <button>Click Me</button>
+
+<form action="/action_page.php">
+<button>Click Me</button>
+</form>
