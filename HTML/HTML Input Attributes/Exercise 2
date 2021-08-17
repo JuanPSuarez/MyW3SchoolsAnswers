@@ -1,0 +1,8 @@
+Exercise:
+Disable the input field below.
+
+Answer: disabled
+
+<form action="/action_page.php">
+<input type="text" disabled>
+</form>
