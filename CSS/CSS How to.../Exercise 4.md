@@ -1,0 +1,23 @@
+Exercise:
+Remove all styles, except the external style sheet "mystyle.css".
+
+Answer: ~~ ~~	p {
+ ~~ ~~	 color: red;
+~~ ~~	}
+~~ ~~	</style>
+~~ ~~	</head>
+~~ ~~	<body style="background-color: lightcyan">
+  
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="mystyle.css">
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+<p>This is another paragraph.</p>
+
+</body>
+</html>
