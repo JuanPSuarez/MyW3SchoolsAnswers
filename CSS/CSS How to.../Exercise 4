@@ -1,12 +1,13 @@
 Exercise:
 Remove all styles, except the external style sheet "mystyle.css".
 
-Answer: ~~ ~~	p {
- ~~ ~~	 color: red;
-~~ ~~	}
-~~ ~~	</style>
-~~ ~~	</head>
-~~ ~~	<body style="background-color: lightcyan">
+Answer:	p̴ ̴{̴
+̴ ̴ ̴c̴o̴l̴o̴r̴:̴ ̴r̴e̴d̴;̴
+̴}̴
+̴<̴/̴s̴t̴y̴l̴e̴>̴
+̴<̴/̴h̴e̴a̴d̴>̴
+̴<̴b̴o̴d̴y̴ ̴s̴t̴y̴l̴e̴=̴"̴b̴a̴c̴k̴g̴r̴o̴u̴n̴d̴-̴c̴o̴l̴o̴r̴:̴ ̴l̴i̴g̴h̴t̴c̴y̴a̴n̴"̴>̴
+
   
 <!DOCTYPE html>
 <html>
