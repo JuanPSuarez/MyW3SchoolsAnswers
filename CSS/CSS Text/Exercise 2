@@ -1,4 +1,5 @@
-Exercise: Center align the <h1> element.
+Exercise: 
+Center align the <h1> element.
 
 Answer: h1 {
   text-align: center;
