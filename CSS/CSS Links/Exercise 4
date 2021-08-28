@@ -1,0 +1,4 @@
+Exercise:
+Set the background color for visited and unvisited links to "lightblue", and the background color for the hover and active link states to "yellow".
+
+Answer: background-color: lightblue, background-color: lightblue, background-color: yellow, background-color: yellow, 
