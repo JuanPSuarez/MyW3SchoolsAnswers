@@ -1,5 +1,5 @@
 Exercise:
-Set the padding in <th> elements to "15px".
+Set the background color of <th> elements to "lightblue".
 
 Answer: th {
   background-color: lightblue;
